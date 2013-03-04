@@ -1,0 +1,211 @@
+2013-01-29 03:46:42.349 WARNING in 'logger' at line 24: test test
+2013-01-29 04:05:44.72 WARNING in 'logger' at line 24: change state to 2 for ip 471410
+2013-01-29 04:05:44.76 WARNING in 'logger' at line 24: change state to 2 for ip 596225
+2013-01-29 04:05:45.81 WARNING in 'logger' at line 24: change state to 2 for ip 586920
+2013-01-29 04:05:45.86 WARNING in 'logger' at line 24: change state to 2 for ip 693030
+2013-01-29 04:05:46.90 WARNING in 'logger' at line 24: change state to 1 for ip 551833
+2013-01-29 04:05:46.94 WARNING in 'logger' at line 24: change state to 2 for ip 723333
+2013-01-29 04:05:47.96 WARNING in 'logger' at line 24: change state to 1 for ip 275075
+2013-01-30 13:24:56.976 WARNING in 'logger' at line 24: change state to 1 for ip 191158
+2013-01-30 13:24:57.977 WARNING in 'logger' at line 24: change state to 1 for ip 370277
+2013-01-30 13:24:57.979 WARNING in 'logger' at line 24: change state to 2 for ip 72207
+2013-01-30 13:24:58.981 WARNING in 'logger' at line 24: change state to 1 for ip 853586
+2013-01-30 13:24:58.983 WARNING in 'logger' at line 24: change state to 2 for ip 638443
+2013-01-30 13:24:59.984 WARNING in 'logger' at line 24: change state to 1 for ip 802982
+2013-01-30 13:24:59.986 WARNING in 'logger' at line 24: change state to 1 for ip 448586
+2013-01-30 13:25:00.990 WARNING in 'logger' at line 24: change state to 2 for ip 337327
+2013-01-30 14:35:05.677 WARNING in 'logger' at line 24: change state to 1 for ip 251354
+2013-01-30 14:35:06.681 WARNING in 'logger' at line 24: change state to 2 for ip 322659
+2013-01-30 14:35:07.682 WARNING in 'logger' at line 24: change state to 1 for ip 589222
+2013-01-30 14:35:07.686 WARNING in 'logger' at line 24: change state to 1 for ip 671913
+2013-01-30 14:35:08.684 WARNING in 'logger' at line 24: change state to 1 for ip 857409
+2013-01-30 14:35:09.685 WARNING in 'logger' at line 24: change state to 1 for ip 648410
+2013-01-30 14:36:25.698 WARNING in 'logger' at line 24: change state to 1 for ip 697985
+2013-01-30 14:37:12.706 WARNING in 'logger' at line 24: change state to 1 for ip 69824
+2013-01-30 15:01:51.801 INFO in 'logger' at line 24: Daemon init!
+2013-01-30 15:01:51.802 INFO in 'logger' at line 24: Daemon starting!
+2013-01-30 15:02:39.253 INFO in 'logger' at line 24: Daemon init!
+2013-01-30 15:02:39.254 INFO in 'logger' at line 24: Daemon stoping!
+2013-01-30 15:04:34.44  INFO in 'logger' at line 24: Daemon init!
+2013-01-30 15:14:37.736 INFO in 'logger' at line 24: Daemon init!
+2013-01-30 15:14:37.737 INFO in 'logger' at line 24: Daemon stoping!
+2013-01-30 15:14:55.672 INFO in 'logger' at line 24: Daemon starting!
+2013-01-30 15:16:01.693 WARNING in 'logger' at line 24: change state to 1 for ip 359274
+2013-01-30 15:16:02.698 WARNING in 'logger' at line 24: change state to 1 for ip 3085
+2013-01-30 15:16:03.703 WARNING in 'logger' at line 24: change state to 1 for ip 358594
+2013-01-30 15:30:31.817 INFO in 'logger' at line 27: Daemon starting!
+2013-01-30 15:30:48.617 INFO in 'logger' at line 27: Daemon stoping!
+logger.py[LINE:27]# INFO     [2013-01-30 15:31:31]  Daemon starting!
+2013-01-30 15:37:19 INFO Daemon stoping!
+2013-01-30 15:37:36 INFO Daemon starting!
+2013-01-30 15:38:58 INFO Daemon stoping!
+2013-01-30 15:39:03 INFO Daemon starting!
+2013-01-30 15:40:23 INFO Daemon starting!
+2013-01-30 15:40:27 INFO Daemon starting!
+2013-01-30 15:41:29 INFO Daemon starting!
+2013-01-30 15:41:30 INFO Daemon starting!
+2013-01-30 15:42:23 INFO Daemon starting!
+2013-01-30 15:42:26 INFO Daemon starting!
+2013-01-30 15:46:43 INFO Daemon stoping!
+2013-01-30 15:46:45 INFO Daemon stoping!
+2013-01-30 15:46:52 INFO Daemon starting!
+2013-01-30 15:46:54 INFO Daemon starting!
+2013-01-30 15:49:05 INFO Daemon starting!
+2013-01-30 15:49:43 INFO Daemon starting!
+2013-01-30 15:50:26 INFO Daemon starting!
+2013-01-30 15:50:27 INFO Daemon starting!
+2013-01-30 15:51:01 INFO Daemon starting!
+2013-01-30 15:51:01 INFO daemonz!
+2013-01-30 15:51:01 INFO run!
+2013-01-30 15:51:01 INFO Daemon starting!
+2013-01-30 15:51:34 INFO Daemon starting!
+2013-01-30 15:51:34 INFO daemonz!
+2013-01-30 15:51:34 INFO run!
+2013-01-30 15:51:34 INFO Daemon starting!
+2013-01-30 15:52:03 INFO Daemon starting!
+2013-01-30 15:52:03 INFO daemonz!
+2013-01-30 15:52:03 INFO run!
+2013-01-30 15:52:03 INFO aaaaaa!
+2013-01-30 15:53:13 INFO Daemon starting!
+2013-01-30 15:53:13 INFO daemonz!
+2013-01-30 15:53:13 INFO 2
+2013-01-30 15:53:13 INFO 3
+2013-01-30 15:53:13 INFO 4
+2013-01-30 15:53:13 INFO run!
+2013-01-30 15:53:13 INFO aaaaaa!
+2013-01-30 15:54:02 INFO Daemon starting!
+2013-01-30 15:54:02 INFO daemonz!
+2013-01-30 15:54:02 INFO 2
+2013-01-30 15:54:02 INFO 3
+2013-01-30 15:54:02 INFO 4
+2013-01-30 15:54:02 INFO run!
+2013-01-30 15:54:02 INFO aaaaaa!
+2013-01-30 15:54:28 INFO Daemon starting!
+2013-01-30 15:54:28 INFO daemonz!
+2013-01-30 15:54:28 INFO 1
+2013-01-30 15:54:28 INFO 2
+2013-01-30 15:54:28 INFO run!
+2013-01-30 15:54:28 INFO aaaaaa!
+2013-01-30 15:54:40 INFO Daemon starting!
+2013-01-30 15:54:40 INFO daemonz!
+2013-01-30 15:54:40 INFO 1
+2013-01-30 15:54:40 INFO 2
+2013-01-30 15:54:40 INFO 3
+2013-01-30 15:54:40 INFO run!
+2013-01-30 15:54:40 INFO aaaaaa!
+2013-01-30 15:56:44 INFO Daemon starting!
+2013-01-30 15:56:44 INFO daemonz!
+2013-01-30 15:56:44 INFO 1
+2013-01-30 15:56:44 INFO 2
+2013-01-30 15:56:44 INFO 3
+2013-01-30 15:56:44 INFO run!
+2013-01-30 15:56:44 INFO aaaaaa!
+2013-01-30 15:57:01 INFO Daemon stoping!
+2013-01-30 15:57:01 INFO Daemon starting!
+2013-01-30 15:57:01 INFO daemonz!
+2013-01-30 15:57:01 INFO 1
+2013-01-30 15:57:01 INFO 2
+2013-01-30 15:57:01 INFO 3
+2013-01-30 15:57:01 INFO run!
+2013-01-30 15:57:01 INFO aaaaaa!
+2013-01-30 15:57:18 INFO Daemon stoping!
+2013-01-30 15:57:18 INFO Daemon starting!
+2013-01-30 15:57:18 INFO daemonz!
+2013-01-30 15:57:18 INFO 1
+2013-01-30 15:57:18 INFO 2
+2013-01-30 15:57:18 INFO 3
+2013-01-30 15:57:18 INFO run!
+2013-01-30 15:58:01 INFO Daemon stoping!
+2013-01-30 15:58:02 INFO Daemon starting!
+2013-01-30 15:58:02 INFO daemonz!
+2013-01-30 15:58:02 INFO 1
+2013-01-30 15:58:02 INFO 2
+2013-01-30 15:58:02 INFO 3
+2013-01-30 15:58:02 INFO run!
+2013-01-30 16:01:37 INFO Daemon stoping!
+2013-01-30 16:01:37 INFO Daemon starting!
+2013-01-30 16:01:37 INFO daemonz!
+2013-01-30 16:01:37 INFO 1
+2013-01-30 16:01:37 INFO <open file '/dev/null', mode 'r' at 0xb79998b8>
+2013-01-30 16:01:37 INFO 3
+2013-01-30 16:01:37 INFO run!
+2013-01-30 16:01:56 INFO Daemon stoping!
+2013-01-30 16:01:56 INFO Daemon starting!
+2013-01-30 16:01:56 INFO daemonz!
+2013-01-30 16:01:56 INFO 1
+2013-01-30 16:01:56 INFO 4
+2013-01-30 16:01:56 INFO 3
+2013-01-30 16:01:56 INFO run!
+2013-01-30 16:02:03 INFO Daemon stoping!
+2013-01-30 16:02:03 INFO Daemon starting!
+2013-01-30 16:02:03 INFO daemonz!
+2013-01-30 16:02:03 INFO 1
+2013-01-30 16:02:03 INFO 5
+2013-01-30 16:02:03 INFO 3
+2013-01-30 16:02:03 INFO run!
+2013-01-30 16:02:08 INFO Daemon stoping!
+2013-01-30 16:02:08 INFO Daemon starting!
+2013-01-30 16:02:08 INFO daemonz!
+2013-01-30 16:02:08 INFO 1
+2013-01-30 16:02:08 INFO 6
+2013-01-30 16:02:08 INFO 3
+2013-01-30 16:02:08 INFO run!
+2013-01-30 16:02:24 INFO Daemon stoping!
+2013-01-30 16:02:24 INFO Daemon starting!
+2013-01-30 16:02:24 INFO daemonz!
+2013-01-30 16:02:24 INFO 1
+2013-01-30 16:02:24 INFO 0
+2013-01-30 16:02:24 INFO 3
+2013-01-30 16:02:24 INFO run!
+2013-01-30 16:02:33 INFO Daemon stoping!
+2013-01-30 16:02:33 INFO Daemon starting!
+2013-01-30 16:02:33 INFO daemonz!
+2013-01-30 16:02:33 INFO 1
+2013-01-30 16:02:33 INFO 1
+2013-01-30 16:02:33 INFO 3
+2013-01-30 16:02:33 INFO run!
+2013-01-30 16:02:42 INFO Daemon stoping!
+2013-01-30 16:02:42 INFO Daemon starting!
+2013-01-30 16:02:42 INFO daemonz!
+2013-01-30 16:02:42 INFO 1
+2013-01-30 16:02:42 INFO 2
+2013-01-30 16:02:42 INFO 3
+2013-01-30 16:02:42 INFO run!
+2013-01-30 16:07:11 INFO Daemon stoping!
+2013-01-30 16:07:11 INFO Daemon starting!
+2013-01-30 16:07:11 INFO daemonz!
+2013-01-30 16:07:11 INFO 1
+2013-01-30 16:07:11 INFO 2
+2013-01-30 16:07:11 INFO 3
+2013-01-30 16:07:11 INFO run!
+2013-01-30 16:08:53 INFO Daemon stoping!
+2013-01-30 16:08:53 INFO Daemon starting!
+2013-01-30 16:08:53 INFO daemonz!
+2013-01-30 16:08:53 INFO 1
+2013-01-30 16:08:53 INFO 2
+2013-01-30 16:08:53 INFO 3
+2013-01-30 16:08:53 INFO run!
+2013-01-30 16:08:53 INFO aaaaaa!
+2013-01-30 16:09:50 INFO Daemon stoping!
+2013-01-30 16:09:55 INFO Daemon starting!
+2013-01-30 16:09:55 INFO daemonz!
+2013-01-30 16:09:55 INFO 1
+2013-01-30 16:09:55 INFO 2
+2013-01-30 16:09:55 INFO 3
+2013-01-30 16:09:55 INFO run!
+2013-01-30 16:09:55 INFO aaaaaa!
+2013-01-30 16:11:41 INFO Daemon stoping!
+2013-01-30 16:11:43 INFO Daemon starting!
+2013-01-30 16:11:43 INFO daemonz!
+2013-01-30 16:11:43 INFO 1
+2013-01-30 16:11:43 INFO 2
+2013-01-30 16:11:43 INFO 3
+2013-01-30 16:11:43 INFO run!
+2013-01-30 16:11:43 INFO aaaaaa!
+2013-01-30 16:13:50 INFO Daemon starting!
+2013-01-30 16:13:50 INFO daemonz!
+2013-01-30 16:13:50 INFO 1
+2013-01-30 16:13:50 INFO 2
+2013-01-30 16:13:50 INFO 3
+2013-01-30 16:13:50 INFO run!
+2013-01-30 16:13:50 INFO aaaaaa!
